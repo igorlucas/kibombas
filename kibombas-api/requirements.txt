@@ -1,0 +1,4 @@
+fastapi[standard]
+httpx
+geopy
+git+https://github.com/manticoresoftware/manticoresearch-python-asyncio.git
